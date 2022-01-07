@@ -49,3 +49,5 @@ int main()
    
    return 0;
 }
+
+   //ranged Sum query formula, A[i,j] = A[j] - A[i-1];  
